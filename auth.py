@@ -1,0 +1,5 @@
+client_id = "client id"
+client_secret = "client secret"
+username = ""
+password = ""
+user_agent = "<MyOS>:talz-it.py:1.0 (by u/<YOUR-REDDIT-NAME>)"
